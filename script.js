@@ -106,20 +106,7 @@ setInterval(function() {
 
 
 var words =[
-  "Hi sweeetie",
-  "Hi sweetie",
-  "Nuv na sweetie vi",
-  "Na cutie pie",
-  "Na chitti kundi",
-  "Na pichi kundi",
-  "I love u sweetie",
-  "Swwetamma....",
-  "sorry ra....",
-  "practice cheyatam valla",
-  "sariga attention ivatledhu",
-  "I lob u sweetheart",
-  "you are so beautiful....",
-  "Ummmmmmmmmmmahhhhhhh"
+  
 ];
 
 var loopItem = 0;
